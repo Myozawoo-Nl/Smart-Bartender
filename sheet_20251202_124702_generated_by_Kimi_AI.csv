@@ -1,0 +1,6 @@
+Feature,How to Add in Glide,
+Search Bar,Add “Search” component → Link to “Name” field,
+Filter by Category,Add “Choice” component → Link to “Category” field,
+Favorites,Add “Favorite” button → Glide auto-handles,
+User Profiles,Enable “Sign-in” → Email or Google,
+Offline Mode,Glide auto-caches data (limited offline support),
